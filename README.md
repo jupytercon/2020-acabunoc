@@ -1,4 +1,4 @@
-# JupyterCon Tutorial
+# Ethics and Culture of Open Source Tutorial
 
 [JupyterCon](https://jupytercon.com) will use this template to create a new repository for each tutorial, with speakers added as collaborators. 
 
