@@ -1,42 +1,50 @@
-# Ethics and Culture of Open Source Tutorial
+# JupyterCon Tutorial 2020
 
-[JupyterCon](https://jupytercon.com) will use this template to create a new repository for each tutorial, with speakers added as collaborators. 
+- Website: https://jupytercon.com/
+- Location: Online
+- Date: 5-9 October 2020
 
-We also include here [instructions for tutorial speakers](https://github.com/jupytercon/tutorial2020/blob/master/Tutorial_Speakers_Guide.md). 
-Please follow these instructions carefully, and email us if you have questions: [jupytercon-tutorials@numfocus.org](mailto:jupytercon-tutorials@numfocus.org)
+## Title: Ethics and Culture of Open Source 
 
-You can delete this file (or rename it) and replace it by a README file that targets the contents of this repository, populated with your tutorial materials.
+- **Subtitle:** Open Source Fundamentalis
+- **Duration:** 
+- **Audience level**: Anyone interested in learning about Open Source communities
+- **Prerequisite**: *None*
 
-## Tutorial Chairs for 2020
 
-- Tania Allard, Microsoft
-- Gerard Gorman, University College London
+### Description
 
-## General information
+**Short Description:**
 
-JupyterCon 2020 is an online event that places heavy emphasis on providing learning opportunities for all participants. 
-It is a project of [NumFOCUS](https://numfocus.org), with a fully volunteer team of organizers.
+This tutorial is a part of the Jupyter 2020 series on Open Source Fundamentals.
+It is organised in X short modules that are developed in Jupyter Notebooks and paired with introductory videos.
 
-### What is NumFOCUS?
+1.
+2. 
 
-> NumFOCUS is a 501(c)-3 non-profit in the United States. 
-Its mission is to promote open practices in research, data, and scientific computing by serving as a fiscal sponsor for open source projects and organizing community-driven educational programs. 
-NumFOCUS envisions an inclusive scientific and research community that utilizes actively supported open source software to make impactful discoveries for a better world.
+Please visit the [notebooks directory](./notebooks) to find the tutorial files (named module-wise).
+All the presentations used in the introductory videos are provided in the [presentation directory](./presentations).
 
-## Format for tutorials
+**Session detail:**
 
-Tutorials will consist of on-demand video presentations, and written materials presented in Jupyter notebooks. 
-The notebooks should be complete and polished, amply narrated worked-out examples and exercises for participants. 
+The tutorial will introduce our learners to basic concepts around the ethics and culture of open source.
+- 
+- 
+-
 
-Tutorial basic format:
+### Learning outcomes
 
-- Three or four Jupyter notebooks (at minimum), each notebook corresponding to "one lesson" – printed, estimate between 10–20 pages, or 17 to 35 min to read, per notebook.
-- Estimate for the material to be 1.5 to 3 hours to work through interactively.
-- The notebooks are complemented with videos, 25–30 min in length (not longer); at least one video per notebook.
-- Optional exercises for participants, instrumented for auto-grading.
-- One full tutorial may add up to total-time-on-task by the learners of about 4.5 hours.
+In this tutorial, our learners will:
+- 
+- 
+-
 
-## License
+### Instructor details
 
-The source materials for JupyterCon tutorials are copyright of their authors. 
-We ask that materials be shared under standard public licenses. We recommend code be under BSD-3 or MIT license, and other materials be under a CC-BY Creative Commons Attribution license.
+- Name: Abigail Cabunoc Mayes
+    - Organization: Mozilla Foundation
+    - Biography: Abigail Cabunoc Mayes (@abbycabs) leads Mozilla’s developer-focused trustworthy AI strategy around MozFest and open source. Previously, Abby founded and led Mozilla Open Leaders, a program that has worked with over 600 open projects globally. With a background in open source and community organizing, she is fueling a culture of openness in research and innovation.
+Prior to joining Mozilla, Abby worked as a bioinformatics software developer at the Ontario Institute for Cancer Research and at Michigan State University where she applied open source to research problems. She has been named in "100 awesome women in open source" by source{d} and is a current and past member of a variety of committees and editorial boards including the Journal of Open Source Software, the Open Source Systems Conference, and the Mozilla Open Source Support Awards.
+Photo CC-BY-NC-SA Faces of Open Source / Peter Adams
+    - Photo: [LINK](images/headshot2018)
+
